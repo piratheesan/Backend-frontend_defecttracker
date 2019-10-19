@@ -1,0 +1,10 @@
+com\pirathee\DefectTracker_assignment\model\Defect.class
+com\pirathee\DefectTracker_assignment\repository\ProjectRepository.class
+com\pirathee\DefectTracker_assignment\model\Emp.class
+com\pirathee\DefectTracker_assignment\controller\ProjectController.class
+com\pirathee\DefectTracker_assignment\DefectTrackerApplication.class
+com\pirathee\DefectTracker_assignment\controller\DefectController.class
+com\pirathee\DefectTracker_assignment\repository\DefectRepository.class
+com\pirathee\DefectTracker_assignment\controller\EmpController.class
+com\pirathee\DefectTracker_assignment\repository\EmpRepository.class
+com\pirathee\DefectTracker_assignment\model\Project.class

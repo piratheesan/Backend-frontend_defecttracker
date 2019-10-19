@@ -1,0 +1,45 @@
+2019-10-19 10:29:05,024 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-10-19 10:37:41,469 [Worker-14: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pirathee:DefectTracker_assignment:0.0.1-SNAPSHOT @ C:\Users\Piratheesan\Desktop\Pirathee_Final_Assignment\SpringBoot_final_assignment\Backend_Springboot\SpringBoot_final_assignment\pom.xml.
+2019-10-19 10:37:50,744 [Worker-14: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringBoot_final_assignment/src/main/java
+2019-10-19 10:37:50,745 [Worker-14: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringBoot_final_assignment/src/main/resources
+2019-10-19 10:37:50,746 [Worker-14: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringBoot_final_assignment/src/main/resources
+2019-10-19 10:37:50,747 [Worker-14: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringBoot_final_assignment/src/test/java
+2019-10-19 10:37:50,958 [Worker-14: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 22 sec
+2019-10-19 10:37:53,246 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-19 10:37:53,249 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-19 10:37:53,265 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-19 10:37:53,267 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-19 10:37:53,267 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Piratheesan\Desktop\Pirathee_Final_Assignment\SpringBoot_final_assignment\Backend_Springboot\SpringBoot_final_assignment\src\test\resources
+2019-10-19 10:38:09,546 [Worker-12: Launching Executing clean in C__Users_Piratheesan_Desktop_Pirathee_Final_Assignment_SpringBoot_final_assignment_Backend_Springboot_SpringBoot_final_assignment] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Piratheesan\Desktop\Pirathee_Final_Assignment\SpringBoot_final_assignment\Backend_Springboot\SpringBoot_final_assignment
+2019-10-19 10:38:09,547 [Worker-12: Launching Executing clean in C__Users_Piratheesan_Desktop_Pirathee_Final_Assignment_SpringBoot_final_assignment_Backend_Springboot_SpringBoot_final_assignment] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2019-10-19 10:38:11,846 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-19 10:38:11,849 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-19 10:38:11,857 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-19 10:38:11,859 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-19 10:38:11,859 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Piratheesan\Desktop\Pirathee_Final_Assignment\SpringBoot_final_assignment\Backend_Springboot\SpringBoot_final_assignment\src\test\resources
+2019-10-19 10:38:16,790 [Worker-15: Launching Executing install in C__Users_Piratheesan_Desktop_Pirathee_Final_Assignment_SpringBoot_final_assignment_Backend_Springboot_SpringBoot_final_assignment] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Piratheesan\Desktop\Pirathee_Final_Assignment\SpringBoot_final_assignment\Backend_Springboot\SpringBoot_final_assignment
+2019-10-19 10:38:16,796 [Worker-15: Launching Executing install in C__Users_Piratheesan_Desktop_Pirathee_Final_Assignment_SpringBoot_final_assignment_Backend_Springboot_SpringBoot_final_assignment] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-10-19 10:38:19,598 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-19 10:38:19,609 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-19 10:38:19,620 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-19 10:38:19,628 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-19 10:38:19,628 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Piratheesan\Desktop\Pirathee_Final_Assignment\SpringBoot_final_assignment\Backend_Springboot\SpringBoot_final_assignment\src\test\resources
+2019-10-19 10:39:02,595 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-19 10:39:02,595 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-19 10:39:02,605 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-19 10:39:02,623 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-19 10:39:02,629 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Piratheesan\Desktop\Pirathee_Final_Assignment\SpringBoot_final_assignment\Backend_Springboot\SpringBoot_final_assignment\src\test\resources
+2019-10-19 10:39:11,691 [Worker-12: Launching Executing clean in C__Users_Piratheesan_Desktop_Pirathee_Final_Assignment_SpringBoot_final_assignment_Backend_Springboot_SpringBoot_final_assignment] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Piratheesan\Desktop\Pirathee_Final_Assignment\SpringBoot_final_assignment\Backend_Springboot\SpringBoot_final_assignment
+2019-10-19 10:39:11,697 [Worker-12: Launching Executing clean in C__Users_Piratheesan_Desktop_Pirathee_Final_Assignment_SpringBoot_final_assignment_Backend_Springboot_SpringBoot_final_assignment] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2019-10-19 10:39:14,055 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-19 10:39:14,061 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-19 10:39:14,069 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-19 10:39:14,076 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-19 10:39:14,076 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Piratheesan\Desktop\Pirathee_Final_Assignment\SpringBoot_final_assignment\Backend_Springboot\SpringBoot_final_assignment\src\test\resources
+2019-10-19 10:39:23,162 [Worker-18: Launching Executing install in C__Users_Piratheesan_Desktop_Pirathee_Final_Assignment_SpringBoot_final_assignment_Backend_Springboot_SpringBoot_final_assignment] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Piratheesan\Desktop\Pirathee_Final_Assignment\SpringBoot_final_assignment\Backend_Springboot\SpringBoot_final_assignment
+2019-10-19 10:39:23,162 [Worker-18: Launching Executing install in C__Users_Piratheesan_Desktop_Pirathee_Final_Assignment_SpringBoot_final_assignment_Backend_Springboot_SpringBoot_final_assignment] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-10-19 10:39:41,152 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-19 10:39:41,157 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-19 10:39:41,164 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-19 10:39:41,166 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-19 10:39:41,171 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Piratheesan\Desktop\Pirathee_Final_Assignment\SpringBoot_final_assignment\Backend_Springboot\SpringBoot_final_assignment\src\test\resources
