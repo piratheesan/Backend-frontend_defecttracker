@@ -43,3 +43,4 @@
 2019-10-19 10:39:41,164 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2019-10-19 10:39:41,166 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-10-19 10:39:41,171 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Piratheesan\Desktop\Pirathee_Final_Assignment\SpringBoot_final_assignment\Backend_Springboot\SpringBoot_final_assignment\src\test\resources
+2019-10-20 09:55:46,920 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.

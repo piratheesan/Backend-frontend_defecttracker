@@ -8,7 +8,9 @@ import Project from './Component/Project.jsx'
 import Employee from './Component/Employee.jsx'
 import Defect from './Component/Defect.jsx'
 import Home from './Component/Index.jsx'
-
+import Proedit from './Component/Proedit.jsx'
+import Defectedit from './Component/Defect.jsx'
+import Empedit from './Component/Employee.jsx'
 
 ReactDOM.render( <BrowserRouter>
     <Switch>
@@ -17,12 +19,13 @@ ReactDOM.render( <BrowserRouter>
         <Route path='/emp' component={Employee}/>
         <Route path='/pro' component={Project}/>
         <Route path='/def' component={Defect}/>
-     
+        <Route path='/proupdate/:proId' component={Proedit}/>
+        <Route path='/update/:proId' component={Defectedit}/>
+        <Route path='/proupdate/:proId' component={Empedit}/>
 
     </Switch>
   </BrowserRouter>, document.getElementById('root'));
 
 // If you want your app to work offline and load faster, you can change
-// unregister() to register() below. Note this comes with some pitfalls.
-// Learn more about service workers: https://bit.ly/CRA-PWA
+// unregister() to register() below.:userId https://bit.ly/CRA-PWA
 serviceWorker.unregister();
